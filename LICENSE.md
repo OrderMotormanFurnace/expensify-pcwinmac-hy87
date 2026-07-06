@@ -1,4 +1,4 @@
-# 
+# Official Expensify workflow for Mac OS | Elite Expensify workflow for PC Windows. Featuring multi-device support and approval workflows — optimized for maximum performance on every platform.
 
 
 
